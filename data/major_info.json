@@ -1,0 +1,34 @@
+{
+  "Computer Science": {
+    "blurb": "Explore algorithms, artificial intelligence, cybersecurity, and software engineering while learning how to turn ideas into high-impact digital products. Graduates build everything from phone apps and cloud platforms to medical-image analyzers and self-driving cars.",
+    "url": "https://bigfuture.collegeboard.org/explore-careers/majors/science-technology-engineering-math/computer-science"
+  },
+  "Computer Engineering": {
+    "blurb": "Blend electrical engineering and coding as you design microprocessors, sensors, and the embedded systems that power smart devices, autonomous vehicles, and next-gen networks. Careers span hardware design, robotics, and Internet-of-Things innovation.",
+    "url": "https://bigfuture.collegeboard.org/majors/computer-hardware-engineering"
+  },
+  "History": {
+    "blurb": "Analyze primary sources—from ancient scrolls to digital archives—to trace how ideas, conflicts, and cultures evolve. You’ll sharpen research and critical-thinking skills valued in law, public policy, museum curation, and documentary filmmaking.",
+    "url": "https://bigfuture.collegeboard.org/explore-careers/majors/social-sciences/history"
+  },
+  "Music": {
+    "blurb": "Study theory, composition, and performance while mastering recording technology and music business fundamentals. Graduates thrive as performers, composers, audio engineers, educators, or arts managers across concert halls, film scoring, and game-audio studios.",
+    "url": "https://bigfuture.collegeboard.org/explore-careers/majors/arts-humanities/music"
+  },
+  "Journalism": {
+    "blurb": "Learn investigative reporting, data visualization, and multimedia storytelling to produce factual, compelling content for print, broadcast, and digital outlets. Skills translate to careers in newsrooms, podcasting, corporate communications, and public affairs.",
+    "url": "https://bigfuture.collegeboard.org/explore-careers/majors/social-sciences/journalism"
+  },
+  "Art History": {
+    "blurb": "Survey global art—from cave paintings to NFTs—while honing visual analysis, critical writing, and curatorial practice. Graduates work in museums, auction houses, cultural heritage preservation, and art-market research.",
+    "url": "https://bigfuture.collegeboard.org/majors/art-history"
+  },
+  "Elementary Education": {
+    "blurb": "Combine child development, classroom management, and subject-matter expertise to craft engaging lessons for grades K-6. The program prepares you for licensure and careers as a lead teacher, curriculum designer, or educational consultant.",
+    "url": "https://bigfuture.collegeboard.org/majors/elementary-education"
+  },
+  "Art": {
+    "blurb": "Develop creative vision and technical skill in drawing, painting, sculpture, and digital media while building a professional portfolio. Alumni launch careers as studio artists, illustrators, designers, and creative directors in advertising, gaming, and entertainment.",
+    "url": "https://bigfuture.collegeboard.org/majors/arts"
+  }
+}
