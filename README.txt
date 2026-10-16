@@ -27,5 +27,3 @@ streamlit run app.py
 
 ### Step 3: Personalised recommendations
 ![Recommendations results](screenshots/03-recommendations.png)
-
-### Top match detail
