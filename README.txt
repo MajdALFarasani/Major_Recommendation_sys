@@ -20,10 +20,10 @@ streamlit run app.py
 ## Screenshots
 
 ### Step 1: User profile
-![User profile form](screenshots/01-user-info.png)
+![User profile form](Screenshots/01-user-info.png)
 
 ### Step 2: Personal statement
-![Personal statement input](screenshots/02-personal-statement.png)
+![Personal statement input](Screenshots/02-personal-statement.png)
 
 ### Step 3: Personalised recommendations
-![Recommendations results](screenshots/03-recommendations.png)
+![Recommendations results](Screenshots/03-recommendations.png)
